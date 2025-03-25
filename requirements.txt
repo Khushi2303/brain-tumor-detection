@@ -174,7 +174,7 @@ pytz==2024.2
 pywinpty==2.0.13
 PyYAML==6.0.2
 pyzmq==26.2.0
-python==3.10.12
+python-3.10.12
 referencing==0.35.1
 requests==2.32.3
 requests-toolbelt==1.0.0
