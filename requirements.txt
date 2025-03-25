@@ -1,6 +1,7 @@
 numpy>=1.22.0
 tensorflow==2.15.1
 flask
+maturin
 gunicorn
 scikit-learn
 pandas
